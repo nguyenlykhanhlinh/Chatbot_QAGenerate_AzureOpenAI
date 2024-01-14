@@ -1,16 +1,12 @@
-#Chatbot QAGenerate AzureOpenAI
+# Chatbot QAGenerate AzureOpenAI
 
 **Problem**
 1.Cognitive Overload: Students often face challenges with information overload in traditional learning, impacting processing and retention.
-
 2.Limited Interactivity: Current educational methods lack engagement, affecting students' absorption of material.
-
 3.Insufficient Practice Opportunities: Without regular, targeted practice, students may struggle to internalize knowledge, hindering deeper understanding.
-
 **Idea**
-We propose the development of a chatbot, QAGenerate AzureOpenAI, designed to generate questions based on content to support student learning.
-
-Our primary focus is to empower students with an engaging and relevant learning tool. The chatbot will analyze documents submitted by students and generate context-specific, fitting questions. This approach aims to facilitate a deeper understanding of the document's content.
+>We propose the development of a chatbot, QAGenerate AzureOpenAI, designed to generate questions based on content to support student learning.
+>Our primary focus is to empower students with an engaging and relevant learning tool. The chatbot will analyze documents submitted by students and generate context-specific, fitting questions. This approach aims to facilitate a deeper understanding of the document's content.
 
 1.Engagement: The interactive nature of the chatbot promotes active participation and sustained interest in the learning process.
 
@@ -34,11 +30,11 @@ _Prerequisites:_
 2.Azure OpenAI API Key
 3.Python environment with required packages installed
 _Steps:_
-Clone the repository
-Set up environment variables using Dotenv
-Install dependencies: npm install
-Run the application: npm run dev
-Visit http://localhost:3000 to interact with the chatbot
+1.Clone the repository
+2.Set up environment variables using Dotenv
+3.Install dependencies: npm install
+4.Run the application: npm run dev
+5.Visit http://localhost:3000 to interact with the chatbot
 _Hosted Version_
 If you prefer not to set up locally, you can use the hosted version of QAGenerate AzureOpenAI at example-hosted-link.
 
@@ -46,6 +42,6 @@ If you prefer not to set up locally, you can use the hosted version of QAGenerat
 _Team leader🥇 
 Nguyễn Lý Khánh Linh 
 _Member🥈
--Phan Thành Đạt
--Phùng Bá Công
--Đỗ Văn Hảo
++ Phan Thành Đạt
++ Phùng Bá Công
++ Đỗ Văn Hảo
