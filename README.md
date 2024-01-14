@@ -33,7 +33,7 @@
   3. Python environment with required packages installed in requirement.txt
 ### _Steps:_
   1. Clone the repository
-  2. Set up environment variables using Dotenv
+  2. Set up environment variables using OpenAI
   3. Install dependencies: npm install
   4. Run the application: npm run dev
   5. Visit http://localhost:3000 to interact with the chatbot
