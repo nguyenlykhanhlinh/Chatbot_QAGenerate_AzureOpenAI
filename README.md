@@ -30,13 +30,18 @@
 ### _Prerequisites_
   1. Streamlit
   2. Azure OpenAI API Key
-  3. Python environment with required packages installed in requirement.txt
+  3. Python environment with required packages
 ### _Steps:_
   1. Clone the repository
   2. Set up environment variables using OpenAI
-  3. Install dependencies: npm install
-  4. Run the application: npm run dev
-  5. Visit http://localhost:3000 to interact with the chatbot
+  3. Install dependencies
+     ```
+     pip install -r requirements.txt
+     ```
+  5. Start the chatbot by command
+     ```
+     streamlit run main.py
+     ```
 ### _Hosted Version_
   - If you prefer not to set up locally, you can use the hosted version of QAGenerate AzureOpenAI at example-hosted-link.
 
