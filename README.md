@@ -28,7 +28,7 @@
 ## Getting Started
 
 ### _Prerequisites_
-  1. Node.js v18
+  1. Streamlit
   2. Azure OpenAI API Key
   3. Python environment with required packages installed in requirement.txt
 ### _Steps:_
