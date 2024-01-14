@@ -1,7 +1,7 @@
 # Chatbot QAGenerate AzureOpenAI
 
 ## Demo
-./demo/Demo Video.mp4
+[./demo/Demo Video.mp4](https://github.com/nguyenlykhanhlinh/Chatbot_QAGenerate_AzureOpenAI/blob/main/demo/Demo%20Video.mp4)
 
 ## Problem
   1. Cognitive Overload: Students often face challenges with information overload in traditional learning, impacting processing and retention.
