@@ -26,16 +26,17 @@
   4.Streamlit: The library for building user interfaces for applications. Streamlit provides an intuitive and responsive interface, allowing users to interact with the chatbot, receive generated questions, and track their learning progress.
 
 ## Getting Started
+
 ### _Prerequisites_
   1.Node.js v18
-  1.Azure OpenAI API Key
-  1.Python environment with required packages installed
+  2.Azure OpenAI API Key
+  3.Python environment with required packages installed in requirement.txt
 ### _Steps:_
   1.Clone the repository
-  1.Set up environment variables using Dotenv
-  1.Install dependencies: npm install
-  1.Run the application: npm run dev
-  1.Visit http://localhost:3000 to interact with the chatbot
+  2.Set up environment variables using Dotenv
+  3.Install dependencies: npm install
+  4.Run the application: npm run dev
+  5.Visit http://localhost:3000 to interact with the chatbot
 ### _Hosted Version_
   - If you prefer not to set up locally, you can use the hosted version of QAGenerate AzureOpenAI at example-hosted-link.
 
