@@ -40,7 +40,7 @@
      ```
   5. Start the chatbot by command
      ```
-     streamlit run main.py
+     streamlit run app.py
      ```
 ### _Hosted Version_
   - If you prefer not to set up locally, you can use the hosted version of QAGenerate AzureOpenAI at example-hosted-link.
